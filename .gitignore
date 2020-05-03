@@ -1,0 +1,5 @@
+bin/
+src/project/
+*.gch
+*.stash
+*.sh
